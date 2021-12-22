@@ -1,4 +1,5 @@
 Criação de permissão para cadastrar produtos.
 Fazer o login com nome
 Fazer o cadastro funcional
-Preencher senha com os ultimos do CPF
+Usuário: email
+Senha: cinco primeiros digitos CPF
