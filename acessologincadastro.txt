@@ -1,0 +1,1 @@
+Criação de permissão para cadastrar produtos.
